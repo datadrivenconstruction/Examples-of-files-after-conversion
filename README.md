@@ -2,7 +2,7 @@
 # Examples of data 
 
 Examples of data after converting IFC and RVT files to the JSON, DAE, CSV, XML, XLS format
-[](https://datadrivenconstruction.io/wp-content/uploads/2024/08/DDC-BIMTage.png)
+[DDC](https://datadrivenconstruction.io/wp-content/uploads/2024/08/DDC-BIMTage.png)
 
 
 # DataDrivenConstruction
