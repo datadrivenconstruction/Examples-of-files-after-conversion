@@ -2,8 +2,7 @@
 # Examples of data 
 
 Examples of data after converting IFC and RVT files to the JSON, DAE, CSV, XML, XLS format
-![enter image description here](https://DataDrivenConstruction.io/wp-content/uploads/2022/09/rvt_ifc_projects.jpg)
-
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/08/DDC-BIMTage.png)
 
 
 # DataDrivenConstruction
@@ -15,4 +14,3 @@ DataDrivenConstruction transferring information to another party without the nee
 DataDrivenConstruction - You Way to Free Tools in Construction.
 
 ### Go to  BIM 2.0  go to  Open Data
-![enter image description here](https://DataDrivenConstruction.io/wp-content/uploads/2021/10/BIM20.jpg)
